@@ -1,0 +1,7 @@
+11- mejorar el aspecto visual general final
+17- refactor general codigo
+18- textos de titulos, etc dos lineas y que acabe en ... y una leyenda con el titulo entero al pasar el raton por encima
+19- revisar todos los textos a traducir
+19- textos seo apropiados
+20- no dejar descargar mas de un audio en el display inferior
+21- para convertir video o audio reducir el tamaño y hacerlo en el propio modal de sweetalert

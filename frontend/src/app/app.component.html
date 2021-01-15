@@ -1,0 +1,26 @@
+<!-- header -->
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="assets/img/logo.png" alt="multiconverter">
+        </a>
+    </div>
+</nav>
+<!-- header -->
+<!-- body -->
+<div class="container p-4">
+    <app-youtube-menu class="p-2"></app-youtube-menu>
+    <app-infinite-scroll></app-infinite-scroll>
+</div>
+<!-- body -->
+<!-- Footer -->
+<div class="card-body bg-dark-gray text-center text-light bg-dark">
+    <h2 class="card-title">{{title | translate}}</h2>
+    <p>
+        {{text}}
+    </p>
+    <a href="#" id="facebook" class="fa fa-facebook m-3 text-info">Facebook</a>
+    <a href="#" class="fa fa-twitter m-3 text-info">Twitter</a>
+    <a href="#" class="fa fa-instagram m-3 text-info">Instagram</a>
+</div>
+<!-- Footer -->

@@ -1,0 +1,22 @@
+.viewport {
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    list-style: none;
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: 2px 2px 3px whitesmoke;
+    border-color: whitesmoke;
+}
+
+mat-card-header mat-card-title {
+    font-size: medium;
+}
+
+.close {
+    float: initial;
+    margin-bottom: 2%;
+}

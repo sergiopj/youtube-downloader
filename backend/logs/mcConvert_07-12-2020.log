@@ -1,0 +1,140 @@
+[07-12-2020 11:16:46][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[07-12-2020 11:16:46][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[07-12-2020 11:16:46][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[07-12-2020 11:16:46][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[07-12-2020 11:17:25][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:17:25][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:17:29][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a mp3
+[07-12-2020 11:17:29][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[07-12-2020 11:17:29][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0139967b5f40cdda6d0f
+[07-12-2020 11:17:29][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:18:00][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[07-12-2020 11:18:04][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a mp3
+[07-12-2020 11:18:04][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[07-12-2020 11:18:04][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[07-12-2020 11:47:12][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:47:12][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:47:12][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a mp3
+[07-12-2020 11:47:12][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.mp3
+[07-12-2020 11:47:12][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0830967b5f40cdda6d2c
+[07-12-2020 11:47:12][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:51:18][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:51:18][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:51:18][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a mp3
+[07-12-2020 11:51:18][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.mp3
+[07-12-2020 11:51:18][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0926967b5f40cdda6d2e
+[07-12-2020 11:51:18][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:52:38][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:52:38][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 11:52:38][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a avi
+[07-12-2020 11:52:38][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.avi
+[07-12-2020 11:52:38][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0976967b5f40cdda6d30
+[07-12-2020 11:52:38][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:52:44][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:52:44][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:52:44][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a mp3
+[07-12-2020 11:52:44][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.mp3
+[07-12-2020 11:52:44][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce097c967b5f40cdda6d32
+[07-12-2020 11:52:44][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:54:13][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:54:13][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:54:13][INFO][RENDER] Se ha convertido correctamente el archivo file_example_MP4_480_1_5MG.mp4 a mp3
+[07-12-2020 11:54:13][INFO][RESPONSE] Se devuelve correctamente el video file_example_MP4_480_1_5MG.mp3
+[07-12-2020 11:54:13][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce09d5967b5f40cdda6d34
+[07-12-2020 11:54:13][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:55:14][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:55:14][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 11:55:14][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.mp4 a avi
+[07-12-2020 11:55:14][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 11:55:14][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0a12967b5f40cdda6d36
+[07-12-2020 11:55:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 11:55:31][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:55:31][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:55:31][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 11:55:55][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:55:55][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:55:55][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 11:56:13][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:56:13][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:56:13][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 11:58:48][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:58:48][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 11:58:48][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 11:59:07][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:59:07][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 11:59:07][INFO][ERROR] No se ha podido convertir a .avi el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4
+[07-12-2020 11:59:29][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 11:59:29][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 11:59:29][INFO][ERROR] No se ha podido convertir a .avi el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4
+[07-12-2020 12:01:31][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:01:31][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 12:01:43][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a mp3
+[07-12-2020 12:01:43][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[07-12-2020 12:01:43][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0b971312d9907d2632c0
+[07-12-2020 12:01:43][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:01:58][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:01:58][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:01:58][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.mp4 a avi
+[07-12-2020 12:01:58][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:01:58][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0ba61312d9907d2632c2
+[07-12-2020 12:01:58][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:02:19][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:02:19][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:02:19][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.mp4 a avi
+[07-12-2020 12:02:19][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:02:19][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0bbb1312d9907d2632c6
+[07-12-2020 12:02:19][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:03:43][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:03:43][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 12:03:43][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 12:04:07][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:04:07][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[07-12-2020 12:04:07][INFO][ERROR] No se ha podido convertir a .mp3 el archivo VID-20201206-WA0023.mp4
+[07-12-2020 12:04:49][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:04:49][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:05:16][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[07-12-2020 12:05:16][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[07-12-2020 12:05:16][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0c6ce33a55930f56f7c7
+[07-12-2020 12:05:16][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:14:35][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:14:35][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:14:50][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[07-12-2020 12:14:50][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:14:50][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.avi a avi
+[07-12-2020 12:14:50][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:14:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0eaae33a55930f56f7cb
+[07-12-2020 12:14:50][INFO][RENDER] Se ha convertido correctamente el archivo Radamanthys de Wyvern Myth Cloth EX ( OCE ) 聖闘士聖衣神話EX ワイバーンラダマンティス～ORIGINAL COLOR EDITION～ en Tokyo-0tEqYPS6Qgk.mp4 a avi
+[07-12-2020 12:14:50][INFO][RESPONSE] Se devuelve correctamente el video Radamanthys de Wyvern Myth Cloth EX ( OCE ) 聖闘士聖衣神話EX ワイバーンラダマンティス～ORIGINAL COLOR EDITION～ en Tokyo-0tEqYPS6Qgk.avi
+[07-12-2020 12:14:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0eaae33a55930f56f7cc
+[07-12-2020 12:14:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:14:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:15:05][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[07-12-2020 12:15:05][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:15:05][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.avi a avi
+[07-12-2020 12:15:05][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:15:05][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0eb9e33a55930f56f7ce
+[07-12-2020 12:15:05][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:15:27][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[07-12-2020 12:15:27][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:15:27][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.avi a avi
+[07-12-2020 12:15:27][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:15:27][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0ecfe33a55930f56f7d0
+[07-12-2020 12:15:27][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:15:45][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[07-12-2020 12:15:45][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:15:46][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0023.avi a avi
+[07-12-2020 12:15:46][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0023.avi
+[07-12-2020 12:15:46][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0ee2e33a55930f56f7d2
+[07-12-2020 12:15:46][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:16:46][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:16:46][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:16:47][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a avi
+[07-12-2020 12:16:47][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.avi
+[07-12-2020 12:16:47][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0f1fe33a55930f56f7d5
+[07-12-2020 12:16:47][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[07-12-2020 12:16:54][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[07-12-2020 12:16:54][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[07-12-2020 12:16:55][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201206-WA0022.mp4 a avi
+[07-12-2020 12:16:55][INFO][RESPONSE] Se devuelve correctamente el video VID-20201206-WA0022.avi
+[07-12-2020 12:16:55][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fce0f27e33a55930f56f7d7
+[07-12-2020 12:16:55][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders

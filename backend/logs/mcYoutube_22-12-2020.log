@@ -1,0 +1,160 @@
+[22-12-2020 10:12:39][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:12:41][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1b88915ae7362c405b544
+[22-12-2020 10:14:59][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:15:01][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1b91515ae7362c405b545
+[22-12-2020 10:41:41][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:41:43][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1bf5715ae7362c405b547
+[22-12-2020 10:41:53][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:41:56][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1bf6415ae7362c405b548
+[22-12-2020 10:42:09][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:42:11][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1bf7315ae7362c405b549
+[22-12-2020 10:42:35][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - ofwE8oaS5QY
+[22-12-2020 10:42:35][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 10:45:20][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 10:45:22][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1c03215ae7362c405b54a
+[22-12-2020 11:42:07][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 11:42:09][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cd8115ae7362c405b54f
+[22-12-2020 11:42:41][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:42:43][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cda315ae7362c405b550
+[22-12-2020 11:42:57][INFO][REQUEST] Un usuario pide descargar un video con id wc-PljQoF18
+[22-12-2020 11:42:58][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cdb215ae7362c405b551
+[22-12-2020 11:43:26][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:43:28][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cdd015ae7362c405b552
+[22-12-2020 11:43:46][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:43:47][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cde315ae7362c405b553
+[22-12-2020 11:45:28][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:45:29][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ce4915ae7362c405b554
+[22-12-2020 11:46:18][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:46:20][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ce7c15ae7362c405b555
+[22-12-2020 11:46:29][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:46:31][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ce8715ae7362c405b556
+[22-12-2020 11:46:43][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:46:45][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ce9515ae7362c405b557
+[22-12-2020 11:46:53][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 11:46:55][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ce9f15ae7362c405b558
+[22-12-2020 11:48:25][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:48:27][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cefb15ae7362c405b559
+[22-12-2020 11:48:37][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:48:38][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cf0615ae7362c405b55a
+[22-12-2020 11:49:26][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:49:28][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1cf3815ae7362c405b55b
+[22-12-2020 11:52:55][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:52:57][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d00915ae7362c405b55c
+[22-12-2020 11:53:22][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 11:53:24][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d02415ae7362c405b55d
+[22-12-2020 11:53:30][INFO][REQUEST] Un usuario pide descargar un video con id uQOvL1BHpPw
+[22-12-2020 11:53:32][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d02c15ae7362c405b55e
+[22-12-2020 11:53:40][INFO][REQUEST] Un usuario pide descargar un video con id suY2crZppcY
+[22-12-2020 11:53:41][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d03515ae7362c405b55f
+[22-12-2020 11:55:04][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - suY2crZppcY
+[22-12-2020 11:55:04][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 11:56:59][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:57:01][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d0fd15ae7362c405b561
+[22-12-2020 11:57:42][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 11:57:46][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d12a15ae7362c405b563
+[22-12-2020 11:58:18][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 11:58:22][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d14e15ae7362c405b564
+[22-12-2020 11:58:56][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 11:58:58][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d17215ae7362c405b565
+[22-12-2020 12:04:07][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:04:10][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d2aa15ae7362c405b566
+[22-12-2020 12:11:36][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:11:38][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d46a15ae7362c405b567
+[22-12-2020 12:16:51][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 12:16:54][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5a615ae7362c405b568
+[22-12-2020 12:17:00][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 12:17:02][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5ae15ae7362c405b569
+[22-12-2020 12:17:11][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:17:13][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5b915ae7362c405b56a
+[22-12-2020 12:17:20][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:17:22][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5c215ae7362c405b56b
+[22-12-2020 12:17:27][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:17:29][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5c915ae7362c405b56c
+[22-12-2020 12:17:34][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 12:17:36][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d5d015ae7362c405b56d
+[22-12-2020 12:22:40][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - sl6tRA41frA
+[22-12-2020 12:22:40][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 12:30:57][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:30:59][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d8f315ae7362c405b56e
+[22-12-2020 12:30:59][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:31:01][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d8f515ae7362c405b56f
+[22-12-2020 12:31:08][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:31:10][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d8fe15ae7362c405b570
+[22-12-2020 12:33:20][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:33:22][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d98215ae7362c405b571
+[22-12-2020 12:34:13][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:34:15][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1d9b715ae7362c405b572
+[22-12-2020 12:36:45][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:36:48][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1da5015ae7362c405b573
+[22-12-2020 12:36:52][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:36:54][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1da5615ae7362c405b574
+[22-12-2020 12:38:27][INFO][REQUEST] Un usuario pide descargar un video con id suY2crZppcY
+[22-12-2020 12:38:29][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1dab515ae7362c405b575
+[22-12-2020 12:39:57][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - suY2crZppcY
+[22-12-2020 12:39:57][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 12:55:36][INFO][REQUEST] Un usuario pide descargar un video con id suY2crZppcY
+[22-12-2020 12:55:40][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1debc15ae7362c405b576
+[22-12-2020 12:55:56][INFO][REQUEST] Un usuario pide descargar un video con id wc-PljQoF18
+[22-12-2020 12:55:58][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1dece15ae7362c405b577
+[22-12-2020 12:57:04][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:57:07][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1df1315ae7362c405b578
+[22-12-2020 12:57:33][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:57:36][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1df3015ae7362c405b579
+[22-12-2020 12:59:02][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 12:59:05][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1df8915ae7362c405b57a
+[22-12-2020 13:00:38][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 13:00:42][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1dfe915ae7362c405b57b
+[22-12-2020 13:01:05][INFO][REQUEST] Un usuario pide descargar un video con id wc-PljQoF18
+[22-12-2020 13:01:07][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e00315ae7362c405b57c
+[22-12-2020 13:01:16][INFO][REQUEST] Un usuario pide descargar un video con id wc-PljQoF18
+[22-12-2020 13:01:18][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e00e15ae7362c405b57d
+[22-12-2020 13:01:29][INFO][REQUEST] Un usuario pide descargar un video con id suY2crZppcY
+[22-12-2020 13:01:32][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e01c15ae7362c405b57e
+[22-12-2020 13:02:11][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - wc-PljQoF18
+[22-12-2020 13:02:11][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 13:02:30][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 13:02:32][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e05815ae7362c405b57f
+[22-12-2020 13:02:48][INFO][REQUEST] Un usuario pide descargar un video con id uQOvL1BHpPw
+[22-12-2020 13:02:51][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e06b15ae7362c405b580
+[22-12-2020 13:07:18][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 13:07:21][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e17915ae7362c405b581
+[22-12-2020 13:07:31][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 13:07:33][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e18515ae7362c405b582
+[22-12-2020 13:14:54][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - sl6tRA41frA
+[22-12-2020 13:14:54][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 13:22:22][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 13:22:26][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e50215ae7362c405b583
+[22-12-2020 13:32:59][INFO][REQUEST] Un usuario pide descargar un video con id wWEmaUjPzzs&t=2739s
+[22-12-2020 13:33:01][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e77d15ae7362c405b584
+[22-12-2020 13:34:14][INFO][REQUEST] Un usuario pide descargar un video con id RWINaE53r5s
+[22-12-2020 13:34:17][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1e7c915ae7362c405b585
+[22-12-2020 13:34:34][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - RWINaE53r5s
+[22-12-2020 13:34:34][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 13:46:42][INFO][REQUEST] Un usuario pide descargar un video con id RWINaE53r5s
+[22-12-2020 13:46:45][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1eab515ae7362c405b586
+[22-12-2020 13:47:01][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - RWINaE53r5s
+[22-12-2020 13:47:01][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 13:47:59][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 13:48:01][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1eb0115ae7362c405b587
+[22-12-2020 13:50:11][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 13:50:13][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1eb8515ae7362c405b588
+[22-12-2020 13:50:28][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - ofwE8oaS5QY
+[22-12-2020 13:50:28][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 14:28:02][INFO][REQUEST] Un usuario pide descargar un video con id ofwE8oaS5QY
+[22-12-2020 14:28:04][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1f46415ae7362c405b589
+[22-12-2020 14:28:25][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - ofwE8oaS5QY
+[22-12-2020 14:28:25][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 15:00:56][INFO][REQUEST] Un usuario pide descargar un video con id sl6tRA41frA&t=1946s
+[22-12-2020 15:00:58][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1fc1a15ae7362c405b58a
+[22-12-2020 15:02:01][INFO][REQUEST] Un usuario pide descargar un video con id 5YVKk1S885A
+[22-12-2020 15:02:03][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1fc5b15ae7362c405b58b
+[22-12-2020 15:05:34][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - sl6tRA41frA
+[22-12-2020 15:05:34][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 15:16:33][INFO][REQUEST] Un usuario pide descargar un video con id wc-PljQoF18
+[22-12-2020 15:16:35][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe1ffc315ae7362c405b58c
+[22-12-2020 15:17:07][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - wc-PljQoF18
+[22-12-2020 15:17:07][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[22-12-2020 15:17:51][INFO][REQUEST] Un usuario pide descargar un video con id o6Ml4lyJZZg&t=2475s
+[22-12-2020 15:17:54][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe2001215ae7362c405b58d
+[22-12-2020 15:26:20][INFO][REQUEST] Un usuario pide descargar un video con id uQOvL1BHpPw
+[22-12-2020 15:26:23][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fe2020f15ae7362c405b58e

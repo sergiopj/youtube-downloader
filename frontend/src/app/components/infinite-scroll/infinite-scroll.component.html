@@ -1,0 +1,32 @@
+<div *ngIf="this.ytService.showPlayListScroll">
+    <ngx-spinner>
+        <p style="font-size: 20px; color: rgb(245, 241, 241)"></p>
+    </ngx-spinner>
+    <button type="button" (click)="closeScroll()" class="close" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    <cdk-virtual-scroll-viewport itemSize="10" class="viewport">
+        <mat-card class="playlist animated fadeInUpBig border border-secondary" *cdkVirtualFor="let pl of playlistData">
+            <mat-card-header>
+                <div mat-card-avatar [ngStyle]="{'background-image': 'url(' + this.channelAvatar + ')', 'background-size': 'cover'  }">
+                </div>
+                <mat-card-title>{{pl.title}}</mat-card-title>
+            </mat-card-header>
+            <img mat-card-image [src]="pl.bestThumbnail.url" [alt]="pl.title" class="p-3">
+            <mat-card-content>
+                <p><strong>{{"video-duration" | translate}}: </strong>{{pl.duration}}</p>
+            </mat-card-content>
+            <mat-card-content>
+                <p><strong>{{"channel-title" | translate}}: </strong>{{pl.author.name}}</p>
+            </mat-card-content>
+            <mat-card-actions>
+                <div class="text-center p-2">
+                    <button class="btn btn-dark m-2" (click)="downloadVideo(pl)">
+                        {{"btn-dl-video" | translate}}
+                        <i class="fas fa-video"></i>
+                    </button>
+                </div>
+            </mat-card-actions>
+        </mat-card>
+    </cdk-virtual-scroll-viewport>
+</div>

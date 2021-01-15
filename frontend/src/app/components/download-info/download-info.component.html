@@ -1,0 +1,11 @@
+<mat-card *ngIf="slides.name && slides.url">
+    <h3 class="bg bg-secondary p-2">
+        <strong>{{ "file" | translate}} (mp3)</strong>
+    </h3>
+    <div class="file p-2" #infodl>
+        <p><em>{{ slides.name | slice:0:35}}...</em></p>
+        <button (click)="download(slides)" [disabled]="downloadAudioState === 'PENDING'" class="btn btn-info m-2">{{downloadAudioState !== 'PENDING' ? ("start-download" | translate) : ("is-downloading" | translate)}}</button>
+    </div>
+    <mat-progress-bar *ngIf="downloadAudioFile$" color="warm" [mode]="downloadAudioState == 'PENDING' ? 'buffer' : 'determinate'" [value]="downloadProgress">
+    </mat-progress-bar>
+</mat-card>

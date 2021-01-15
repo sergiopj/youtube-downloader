@@ -1,0 +1,207 @@
+[14-12-2020 13:39:06][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 13:39:06][INFO][RENDER] Se ha convertido correctamente la imagen dohko-de-libra-saint-myth-cloth.jpg a wav
+[14-12-2020 13:41:55][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 13:41:56][INFO][RENDER] Se ha convertido correctamente la imagen dohko-de-libra-saint-myth-cloth.jpg a wav
+[14-12-2020 13:44:03][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 13:44:03][INFO][RENDER] Se ha convertido correctamente la imagen myth-cloth-balance-dohko-bandai-saint-seiya-2.jpg a mpeg
+[14-12-2020 13:52:23][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 13:52:23][INFO][RENDER] Se ha convertido correctamente la imagen myth-cloth-balance-dohko-bandai-saint-seiya-2.jpg a mpeg
+[14-12-2020 14:03:45][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 14:03:45][INFO][RENDER] Se ha convertido correctamente la imagen myth-cloth-balance-dohko-bandai-saint-seiya-2.jpg a mp3
+[14-12-2020 14:05:05][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 14:05:05][INFO][RENDER] Se ha convertido correctamente la imagen libra.jpg a mp3
+[14-12-2020 14:05:12][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 14:05:13][INFO][RENDER] Se ha convertido correctamente la imagen libra.jpg a mp3
+[14-12-2020 14:05:39][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 14:05:39][INFO][RENDER] Se ha convertido correctamente la imagen libra.jpg a mp3
+[14-12-2020 14:10:26][INFO][RENDER] El archivo con ext jpeg se admite para el renderizado input
+[14-12-2020 14:10:26][INFO][RENDER] Se ha convertido correctamente la imagen dohko-de-libra-saint-myth-cloth.jpg a mp3
+[14-12-2020 14:11:21][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 14:11:21][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[14-12-2020 14:11:21][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 14:11:21][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[14-12-2020 14:11:28][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 14:11:29][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a flac
+[14-12-2020 14:11:29][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 14:11:29][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.flac
+[14-12-2020 14:12:00][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:12:00][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:12:24][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 14:12:24][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:12:24][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd764b8f59c074f89019fe9
+[14-12-2020 14:12:24][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:13:14][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 14:13:14][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[14-12-2020 14:13:14][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 14:13:14][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[14-12-2020 14:13:23][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:13:23][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:13:45][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 14:13:45][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:13:45][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd76509f59c074f89019fec
+[14-12-2020 14:13:45][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:16:40][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:16:40][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 14:16:42][INFO][RENDER] Se ha convertido correctamente el archivo COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.mp4 a mp3
+[14-12-2020 14:16:42][INFO][RESPONSE] Se devuelve correctamente el video COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.mp3
+[14-12-2020 14:16:42][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd765baf59c074f89019ff4
+[14-12-2020 14:16:42][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:17:42][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:17:42][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:17:50][INFO][RENDER] Se ha convertido correctamente el archivo COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.mp4 a avi
+[14-12-2020 14:17:50][INFO][RESPONSE] Se devuelve correctamente el video COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.avi
+[14-12-2020 14:17:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd765fef59c074f89019ff6
+[14-12-2020 14:17:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:18:18][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:18:18][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:18:25][INFO][RENDER] Se ha convertido correctamente el archivo COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.mp4 a avi
+[14-12-2020 14:18:25][INFO][RESPONSE] Se devuelve correctamente el video COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.avi
+[14-12-2020 14:18:25][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd76621f59c074f89019ff8
+[14-12-2020 14:18:25][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:18:42][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:18:42][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:19:04][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 14:19:04][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:19:04][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd76648f59c074f89019ffa
+[14-12-2020 14:19:04][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:19:29][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 14:19:29][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:19:50][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi a avi
+[14-12-2020 14:19:50][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:19:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd76676f59c074f89019ffc
+[14-12-2020 14:19:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:20:37][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:20:37][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 14:20:37][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201214-WA0026.mp4 a mp3
+[14-12-2020 14:20:37][INFO][RESPONSE] Se devuelve correctamente el video VID-20201214-WA0026.mp3
+[14-12-2020 14:20:37][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd766a5f59c074f8901a000
+[14-12-2020 14:20:37][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:20:45][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:20:45][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 14:20:45][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201214-WA0026.mp4 a mp3
+[14-12-2020 14:20:45][INFO][RESPONSE] Se devuelve correctamente el video VID-20201214-WA0026.mp3
+[14-12-2020 14:20:45][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd766adf59c074f8901a002
+[14-12-2020 14:20:45][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:21:36][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:21:36][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:23:40][INFO][RENDER] Se ha convertido correctamente el archivo ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp4 a avi
+[14-12-2020 14:23:40][INFO][RESPONSE] Se devuelve correctamente el video ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.avi
+[14-12-2020 14:23:40][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7675cf59c074f8901a004
+[14-12-2020 14:23:40][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:24:13][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:24:13][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:24:19][INFO][RENDER] Se ha convertido correctamente el archivo COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.mp4 a avi
+[14-12-2020 14:24:19][INFO][RESPONSE] Se devuelve correctamente el video COMPARTIR las PATENTES de las VACUNAS COVID es la forma de hacer UNIVERSAL la INMUNIZACIÓN I RTVE-S8x9YCtSqNI.avi
+[14-12-2020 14:24:19][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd76783f59c074f8901a006
+[14-12-2020 14:24:19][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:30:03][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:30:03][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:30:29][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 14:30:29][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:30:29][INFO][ERROR] No se ha podido eliminar el contenido del directorio ../public/files
+[14-12-2020 14:30:29][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd768f5e5bae76bda999228
+[14-12-2020 14:30:29][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:31:26][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 14:31:26][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 14:31:53][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 14:31:53][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 14:31:53][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7694988d4916d4d14f669
+[14-12-2020 14:31:53][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 14:31:53][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 14:32:41][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 14:32:41][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[14-12-2020 14:32:41][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 14:32:41][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[14-12-2020 14:35:30][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 14:35:31][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[14-12-2020 14:35:31][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 14:35:31][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[14-12-2020 14:35:31][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 14:35:31][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:04:10][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 15:04:10][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 15:04:14][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a mp3
+[14-12-2020 15:04:14][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:04:14][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd770de6ff377797b8d9ba8
+[14-12-2020 15:04:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:04:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:04:37][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 15:04:39][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3 a webm
+[14-12-2020 15:04:39][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[14-12-2020 15:04:39][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).webm
+[14-12-2020 15:04:39][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:04:39][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:04:58][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 15:04:58][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 15:05:17][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi a avi
+[14-12-2020 15:05:17][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 15:05:17][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7711d6ff377797b8d9bab
+[14-12-2020 15:05:17][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:05:17][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:06:04][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 15:06:14][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3 a mp3
+[14-12-2020 15:06:14][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[14-12-2020 15:06:14][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[14-12-2020 15:06:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:06:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:09:21][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 15:09:21][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 15:09:48][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp4 a avi
+[14-12-2020 15:09:48][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).avi
+[14-12-2020 15:09:48][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7722c9ce9647d53bf31fb
+[14-12-2020 15:09:48][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:09:48][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:09:57][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 15:09:57][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 15:10:08][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).avi a mp3
+[14-12-2020 15:10:08][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[14-12-2020 15:10:08][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd772409ce9647d53bf31fd
+[14-12-2020 15:10:08][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:10:08][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:13:14][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 15:13:24][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a mp3
+[14-12-2020 15:13:24][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:13:24][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:13:24][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:13:24][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:15:02][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 15:15:02][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 15:15:27][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).avi a avi
+[14-12-2020 15:15:27][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).avi
+[14-12-2020 15:15:27][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7737f9ce9647d53bf3202
+[14-12-2020 15:15:27][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:15:27][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:17:24][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 15:17:24][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 15:17:55][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a avi
+[14-12-2020 15:17:55][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 15:17:55][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd774139ce9647d53bf3204
+[14-12-2020 15:17:55][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:17:55][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:20:38][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 15:20:38][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 15:20:50][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi a mp3
+[14-12-2020 15:20:50][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:20:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd774c29ce9647d53bf3208
+[14-12-2020 15:20:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:20:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:22:07][INFO][RENDER] El archivo con ext x-msvideo se admite para el renderizado input
+[14-12-2020 15:22:07][INFO][RENDER] El archivo con ext avi se admite para el renderizado output
+[14-12-2020 15:22:33][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi a avi
+[14-12-2020 15:22:33][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.avi
+[14-12-2020 15:22:33][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd775299ce9647d53bf320a
+[14-12-2020 15:22:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:22:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:26:37][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[14-12-2020 15:26:37][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a wav
+[14-12-2020 15:26:37][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:26:37][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[14-12-2020 15:26:37][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[14-12-2020 15:26:37][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:27:30][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[14-12-2020 15:27:30][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[14-12-2020 15:27:43][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp4 a mp3
+[14-12-2020 15:27:43][INFO][RESPONSE] Se devuelve correctamente el video Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[14-12-2020 15:27:43][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd7765f9ce9647d53bf320e
+[14-12-2020 15:27:43][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[14-12-2020 15:27:43][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files

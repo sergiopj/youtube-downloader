@@ -1,0 +1,122 @@
+[16-12-2020 12:12:20][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[16-12-2020 12:12:20][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[16-12-2020 12:12:20][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201215-WA0089.mp4 a mp3
+[16-12-2020 12:12:20][INFO][RESPONSE] Se devuelve correctamente el video VID-20201215-WA0089.mp3
+[16-12-2020 12:12:20][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd9eb943b5dad103cbb7979
+[16-12-2020 12:12:20][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:12:20][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:36:33][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[16-12-2020 12:36:33][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[16-12-2020 12:36:49][INFO][RENDER] Se ha convertido correctamente el archivo Cómo desplegar tu app Node.js en Producción con Heroku _ Curso NodeJS y MongoDB-mkn5n8Ws-HE.mp4 a mp3
+[16-12-2020 12:36:49][INFO][RESPONSE] Se devuelve correctamente el video Cómo desplegar tu app Node.js en Producción con Heroku _ Curso NodeJS y MongoDB-mkn5n8Ws-HE.mp3
+[16-12-2020 12:36:49][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fd9f1513b5dad103cbb7982
+[16-12-2020 12:36:49][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:36:49][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:38:37][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 12:38:40][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a webm
+[16-12-2020 12:38:40][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[16-12-2020 12:38:40][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.webm
+[16-12-2020 12:38:40][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:38:40][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:52:16][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 12:52:21][INFO][RENDER] Se ha convertido correctamente el archivo Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3 a wav
+[16-12-2020 12:52:21][INFO][ANALYTICS] Se guardan en bd los datos del audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3
+[16-12-2020 12:52:21][INFO][RESPONSE] Se devuelve correctamente el audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.wav
+[16-12-2020 12:52:22][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:52:22][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:52:49][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 12:52:50][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201215-WA0089.mp3 a mp3
+[16-12-2020 12:52:50][INFO][ANALYTICS] Se guardan en bd los datos del audio VID-20201215-WA0089.mp3
+[16-12-2020 12:52:50][INFO][RESPONSE] Se devuelve correctamente el audio VID-20201215-WA0089.mp3
+[16-12-2020 12:52:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:52:50][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:53:19][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 12:53:58][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 12:54:35][INFO][RENDER] Se ha convertido correctamente el archivo Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3 a ogg
+[16-12-2020 12:54:35][INFO][ANALYTICS] Se guardan en bd los datos del audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3
+[16-12-2020 12:54:35][INFO][RESPONSE] Se devuelve correctamente el audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.ogg
+[16-12-2020 12:54:35][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 12:54:35][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 12:56:25][INFO][RENDER] Se ha convertido correctamente el archivo Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3 a mp3
+[16-12-2020 12:56:25][INFO][ANALYTICS] Se guardan en bd los datos del audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3
+[16-12-2020 12:56:25][INFO][RESPONSE] Se devuelve correctamente el audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3
+[16-12-2020 14:21:21][INFO][RENDER] El archivo con ext webm se admite para el renderizado input
+[16-12-2020 14:21:33][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.webm a mp3
+[16-12-2020 14:21:33][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.webm
+[16-12-2020 14:21:33][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[16-12-2020 14:21:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:21:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:22:01][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:22:02][INFO][RENDER] Se ha convertido correctamente el archivo VID-20201215-WA0089 (1).mp3 a mp3
+[16-12-2020 14:22:02][INFO][ANALYTICS] Se guardan en bd los datos del audio VID-20201215-WA0089 (1).mp3
+[16-12-2020 14:22:02][INFO][RESPONSE] Se devuelve correctamente el audio VID-20201215-WA0089 (1).mp3
+[16-12-2020 14:22:02][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:22:02][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:23:07][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:23:23][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:23:33][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3 a mp3
+[16-12-2020 14:23:33][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[16-12-2020 14:23:33][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[16-12-2020 14:23:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:23:33][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:24:39][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:24:50][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:25:05][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3 a mp3
+[16-12-2020 14:25:05][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[16-12-2020 14:25:05][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (1).mp3
+[16-12-2020 14:25:05][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:25:05][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:25:11][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:25:25][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3 a mp3
+[16-12-2020 14:25:25][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[16-12-2020 14:25:25][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.mp3
+[16-12-2020 14:25:25][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:25:25][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:25:40][INFO][RENDER] Se ha convertido correctamente el archivo Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3 a webm
+[16-12-2020 14:25:40][INFO][ANALYTICS] Se guardan en bd los datos del audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.mp3
+[16-12-2020 14:25:40][INFO][RESPONSE] Se devuelve correctamente el audio Unboxing en Vivo desde Akihabara  Son Goku Imagination Works Dragon Ball Z con Japan Geek-wWEmaUjPzzs.webm
+[16-12-2020 14:25:58][INFO][RENDER] Se ha convertido correctamente el archivo ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3 a mp3
+[16-12-2020 14:25:58][INFO][ANALYTICS] Se guardan en bd los datos del audio ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3
+[16-12-2020 14:25:58][INFO][RESPONSE] Se devuelve correctamente el audio ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3
+[16-12-2020 14:33:04][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:34:12][INFO][RENDER] Se ha convertido correctamente el archivo ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3 a mp3
+[16-12-2020 14:34:12][INFO][ANALYTICS] Se guardan en bd los datos del audio ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3
+[16-12-2020 14:34:12][INFO][RESPONSE] Se devuelve correctamente el audio ¿QUÉ LE PASA AL MADRID Y PORQUÉ CREO QUE GANARÁN A SEVILLA Y GLADBACH-5YVKk1S885A.mp3
+[16-12-2020 14:34:12][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:34:12][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:38:27][INFO][RENDER] El archivo con ext mpeg se admite para el renderizado input
+[16-12-2020 14:38:28][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).mp3 a wav
+[16-12-2020 14:38:28][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).mp3
+[16-12-2020 14:38:28][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav
+[16-12-2020 14:38:28][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:38:28][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:38:40][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[16-12-2020 14:38:40][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[16-12-2020 14:39:00][INFO][RENDER] El archivo con ext mp4 se admite para el renderizado input
+[16-12-2020 14:39:00][INFO][RENDER] El archivo con ext mp3 se admite para el renderizado output
+[16-12-2020 14:39:10][INFO][RENDER] El archivo con ext wav se admite para el renderizado input
+[16-12-2020 14:39:13][INFO][RENDER] El archivo con ext wav se admite para el renderizado input
+[16-12-2020 14:39:14][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav a flac
+[16-12-2020 14:39:14][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav
+[16-12-2020 14:39:14][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).flac
+[16-12-2020 14:39:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:39:14][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:39:20][INFO][RENDER] El archivo con ext wav se admite para el renderizado input
+[16-12-2020 14:39:21][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav a flac
+[16-12-2020 14:39:21][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav
+[16-12-2020 14:39:21][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).flac
+[16-12-2020 14:39:21][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders
+[16-12-2020 14:39:21][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:39:23][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav a mp3
+[16-12-2020 14:39:23][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).wav
+[16-12-2020 14:39:23][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY (2).mp3
+[16-12-2020 14:39:30][INFO][RENDER] Se ha convertido correctamente el archivo Cómo desplegar tu app Node.js en Producción con Heroku _ Curso NodeJS y MongoDB-mkn5n8Ws-HE.mp4 a mp3
+[16-12-2020 14:39:30][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fda0e1202b80a2fd019f3be
+[16-12-2020 14:39:50][INFO][RENDER] Se ha convertido correctamente el archivo Cómo desplegar tu app Node.js en Producción con Heroku _ Curso NodeJS y MongoDB-mkn5n8Ws-HE.mp4 a mp3
+[16-12-2020 14:39:50][INFO][ANALYTICS] Se guardan en bd los datos del video con id 5fda0e2602b80a2fd019f3bf
+[16-12-2020 14:40:16][INFO][RENDER] El archivo con ext webm se admite para el renderizado input
+[16-12-2020 14:40:17][INFO][RENDER] Se ha convertido correctamente el archivo Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.webm a wav
+[16-12-2020 14:40:17][INFO][ANALYTICS] Se guardan en bd los datos del audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.webm
+[16-12-2020 14:40:17][INFO][RESPONSE] Se devuelve correctamente el audio Saint Seiya - Pegasus Fantasy Full (Opening 1 Japan)-ofwE8oaS5QY.wav
+[16-12-2020 14:40:17][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[16-12-2020 14:40:17][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/renders

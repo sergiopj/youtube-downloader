@@ -1,0 +1,35 @@
+<div class="card">
+    <div class="card-header bg-info">
+        <h3 class="card-title text-white">
+            <i class="fas fa-file-video"></i> {{"convert-title" | translate}}
+        </h3>
+    </div>
+    <div class="card-body text-center">
+        <!-- Peticion post de imagenes a nuestra ruta del backend -->
+        <ngx-spinner>
+            <p class="p-3" style="font-size: 20px; color: rgb(245, 241, 241)"></p>
+        </ngx-spinner>
+        <form #forma="ngForm">
+            <div class="form-group">
+                <div class="input-group">
+                    <div class="custom-file">
+                        <input (change)="selectFile($event.target.files[0])" type="file" name="file" class="custom-file-input" id="inputGroup" aria-describedby="inputGroupFileAddon" required>
+                        <label class="custom-file-label" for="inputGroupFile">{{inputFileText}}</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="convertExtension">{{"select-format-text" | translate}}</label>
+                <select id="convertExtension" name="convertExtension" class="btn btn-dark form-control" [disabled]="!enabledInputSelect" (change)="selectFormatOption($event.target.value)" required>
+                <option [value]="item" *ngFor="let item of convertList">{{item}}</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-secondary" (click)="convertFile(this.uploadFile.type.split('/')[0])" [disabled]="!enabledDlButton">
+                    {{"btn-convert" | translate}}
+                    <i class="fas fa-check-circle"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

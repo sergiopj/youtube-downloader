@@ -1,0 +1,6 @@
+[30-12-2020 08:53:28][INFO][REQUEST] Un usuario pide descargar un video con id ALey9SQXp54
+[30-12-2020 08:53:30][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fec31faab028151ef2ce0a8
+[30-12-2020 08:55:17][INFO][FILESYSTEM] se ha podido descargado correctamente el audio de yt con el id - ALey9SQXp54
+[30-12-2020 08:55:17][INFO][FILESYSTEM] Se ha elmininado el contenido del directorio ../public/files
+[30-12-2020 08:55:39][INFO][REQUEST] Un usuario pide descargar un video con id fXLqd_6N5I4
+[30-12-2020 08:55:41][INFO][ANALYTICS] Se guardan en bd los datos del url -- 5fec327dab028151ef2ce0a9

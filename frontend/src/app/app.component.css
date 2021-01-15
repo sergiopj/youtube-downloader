@@ -1,0 +1,31 @@
+
+  /* Responsive Styles */
+  @media screen and (max-width: 1920px) {
+    .container{
+      width: 40%;
+    }      
+  }
+
+  @media screen and (max-width: 960px) {
+    .container{
+      width: 60%;
+    }      
+  }
+
+  @media screen and (max-width: 767px) {
+    .container{
+      width: 80%;
+    }    
+  }
+
+  @media screen and (max-width: 575px) {
+    .container{
+      width: 100%;
+    }    
+  }
+
+  .showMoreText {
+    color: rgb(161, 196, 224);
+  }
+
+  

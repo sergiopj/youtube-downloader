@@ -1,0 +1,49 @@
+<div *ngIf="!this.ytService.showPlayListScroll">
+    <div class="card">
+        <div class="card-header bg-danger">
+            <h3 class="card-title text-white">
+                <i class="fab fa-youtube-square"></i> Youtube Downloader
+            </h3>
+        </div>
+        <div class="card-body text-center">
+            <ngx-spinner>
+                <p class="p-3" style="font-size: 20px; color: rgb(245, 241, 241)"></p>
+            </ngx-spinner>
+            <!-- Peticion post de imagenes a nuestra ruta del backend -->
+            <form (ngSubmit)="getYtInfo(forma)" #forma="ngForm">
+                <div class="form-group">
+                    <input type="url" name="ytUrl" class="form-control" [class.is-invalid]="ytUrl.invalid && ytUrl.touched" placeholder="https://www.youtube.com/watch?v=PRnG9jemIdQ" [ngModel]="youtubeUrl" required #ytUrl="ngModel">
+                    <small class="form-text text-danger" *ngIf="ytUrl.invalid && ytUrl.touched">{{"alert-text-url" |
+                        translate}}</small>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-dark m-2" type="submit" [disabled]="!ytUrl.valid" (click)="setVideoType()">
+                        {{"btn-dl-video" | translate}}
+                        <i class="fas fa-video"></i>
+                    </button>
+                    <button class="btn btn-secondary m-2" type="submit" [disabled]="!ytUrl.valid" (click)="setAudioType()">
+                        {{"btn-dl-audio" | translate}}
+                        <i class="fas fa-volume-up"></i>
+                    </button>
+                </div>
+            </form>
+            <form (ngSubmit)="getPLInfo(formb)" #formb="ngForm">
+                <div class="form-group">
+                    <input type="url" name="ytPlUrl" class="form-control" [class.is-invalid]="ytPlUrl.invalid && ytPlUrl.touched" placeholder="https://www.youtube.com/watch?v=eS6g1O-FJTM&list=PLf1hhgBlYqfctnm9FKDcH_84CILjUAA4p" [ngModel]="youtubePlUrl" required #ytPlUrl="ngModel">
+                    <small class="form-text text-danger" *ngIf="ytPlUrl.invalid && ytPlUrl.touched">{{"alert-text-url" |
+                        translate}}</small>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-dark m-2" type="submit" [disabled]="!ytPlUrl.valid">
+                        {{"btn-show-pl" | translate}}
+                        <i class="fas fa-scroll"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- fix
+    <app-convert-menu class="p-2"></app-convert-menu>
+    -->
+    <app-download-info *ngIf="this.ytService.ytAudioFl" class="p-2"></app-download-info>
+</div>
