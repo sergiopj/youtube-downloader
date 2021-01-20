@@ -229,8 +229,7 @@ function DownloadYoutubeAudio(req, res) {
 
             YD.on("error", (error) => {
                 logger.info(
-                    ` [ERROR] NO se ha podido descargar el audio de yt con el id - $ { videoId }
-                                `
+                    ` [ERROR] NO se ha podido descargar el audio de yt con el id - ${videoId}`
                 );
 
                 console.log(error);
